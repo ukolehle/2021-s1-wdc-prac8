@@ -1,0 +1,1 @@
+SELECT COUNT(FID) from film_list;
