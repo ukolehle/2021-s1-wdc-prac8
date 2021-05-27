@@ -1,1 +1,1 @@
-SELECT COUNT(FID) from film_list;
+SELECT COUNT(title) from film;
